@@ -1,8 +1,19 @@
-## DeepLearning with TensorFlow
+## Machine Learning & Deep Learning Repository
 
-Please do not copy, cite, or distribute the notebooks in this repository.
+Please do not copy, cite, modify, or distribute the notebooks in this repository.
 
-This repository illustrates key concepts of deep learning and demonstrates how to use TensorFlow to solve deep learning problems. The topics covered in this section are as follows:
+This repository contains variaous machine learning/deep learning projects that demonstrate real-world appliation of machine learning/deep learning algorithms. The topics covered in this secion are as follows:
+
+### Anomaly Detection
+  - AutoEncoders
+  - CNN, RNN, LSTM
+
+### Classification 
+  - Gradient Boosted Trees (XGBoost)
+
+### Clustering
+  - K-Means Clustering
+  - PCA Anlayis 
 
 ### Computer Vision
   - Computer Vision with Convolutional Neural Networks
@@ -10,6 +21,9 @@ This repository illustrates key concepts of deep learning and demonstrates how t
   - Augmentation
   - Transfer Learning
   - Multiclass Classification
+
+### Ensemble Learning
+  - Sstacked Generalization
   
 ### Natural Language Processing
   - Sequence Models
@@ -21,13 +35,9 @@ This repository illustrates key concepts of deep learning and demonstrates how t
   - Sequence-to-Vector vs Sequence-to-Sequence
   - Stock Market Prediction with LSTM 
   
-### Anomaly Detection
-  - AutoEncoders
-  
-### Ensemble Learning
-  - Sstacked Generalization
-  
  
-The datasets used in this section are from multiple online resources including TensorFlow, Coursera, and personal blogs and the source files and references are speicifed at the bottom of each notebook. Please do not copy, cite, or distribute the notebooks in this repository. 
+  
+  
+The datasets used in this section are from multiple online resources including TensorFlow, Coursera, and personal blogs. The source files and references are speicifed in each notebook. Please do not copy, cite, modify, or distribute the notebooks in this repository. 
  
  
